@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\T\u00C0I LI\u1EC6U LTUDWEB\\Shopping-Website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB05F8DA-9AFB-45C9-8CED-548DAA37EC1D}|Shopping-Website\\Shopping-Website.csproj|f:\\t\u00E0i li\u1EC7u ltudweb\\shopping-website\\shopping-website\\cart.aspx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB05F8DA-9AFB-45C9-8CED-548DAA37EC1D}|Shopping-Website\\Shopping-Website.csproj|solutionrelative:shopping-website\\cart.aspx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "F:\\T\u00C0I LI\u1EC6U LTUDWEB\\Shopping-Website\\Shopping-Website\\Cart.aspx",
+              "RelativeDocumentMoniker": "Shopping-Website\\Cart.aspx",
+              "ToolTip": "F:\\T\u00C0I LI\u1EC6U LTUDWEB\\Shopping-Website\\Shopping-Website\\Cart.aspx",
+              "RelativeToolTip": "Shopping-Website\\Cart.aspx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-26T21:52:12.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+F:\TÀI LIỆU LTUDWEB\Shopping-Website\Shopping-Website\obj\Debug\net8.0\Shopping-Website.GeneratedMSBuildEditorConfig.editorconfig
+F:\TÀI LIỆU LTUDWEB\Shopping-Website\Shopping-Website\obj\Debug\net8.0\Shopping-Website.AssemblyInfoInputs.cache
+F:\TÀI LIỆU LTUDWEB\Shopping-Website\Shopping-Website\obj\Debug\net8.0\Shopping-Website.AssemblyInfo.cs
+F:\TÀI LIỆU LTUDWEB\Shopping-Website\Shopping-Website\obj\Debug\net8.0\Shopping-Website.csproj.CoreCompileInputs.cache
+F:\TÀI LIỆU LTUDWEB\Shopping-Website\Shopping-Website\obj\Debug\net8.0\Shopping-Website.MvcApplicationPartsAssemblyInfo.cache
+F:\TÀI LIỆU LTUDWEB\Shopping-Website\Shopping-Website\obj\Debug\net8.0\Shopping-Website.RazorAssemblyInfo.cache
+F:\TÀI LIỆU LTUDWEB\Shopping-Website\Shopping-Website\obj\Debug\net8.0\Shopping-Website.RazorAssemblyInfo.cs
